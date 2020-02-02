@@ -13,9 +13,5 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:10086/eureka,http://localhost:10087/eureka
       
 ProviderVersion: UserProvider01-UPDATE
