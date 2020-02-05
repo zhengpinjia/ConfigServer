@@ -13,3 +13,5 @@ spring:
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
+    
+ProviderVersion: UserProvider02-UPDATE
